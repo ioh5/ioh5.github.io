@@ -7,4 +7,4 @@
 
 * 友情链接
   * [另一个网站1](https://yuanmingze-1.github.io/)
-  * [里一个网站2](https://my45.github.io/)
+  * [另一个网站2](https://my45.github.io/)
