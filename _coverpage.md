@@ -6,7 +6,7 @@
 
 - YMZ的网站导航
 
-
-[开始使用 Let Go](/README.md)
+[GitHub](https://github.com/ioh5/ioh5.github.io/)
+[开始使用](/docs/README.md)
 <!-- 背景色 -->
 ![color](#B7B7B7)
