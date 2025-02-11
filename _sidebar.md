@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [前言](/README)
-* [指南](/html_nav)
+* [网页指南](/html_nav)
