@@ -1,2 +1,2 @@
 ## 学生
-### C1 - [藏梓皓](/html/c1.html)
+### C1 - [藏梓皓](/docs/html/c1.html)
